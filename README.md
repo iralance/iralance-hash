@@ -1,5 +1,5 @@
 ## Installation
 ```
-composer require iralance/md5hasher
+composer require iralance/iralance-hash
 ```
 ## Usaging
