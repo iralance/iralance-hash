@@ -1,0 +1,18 @@
+{
+    "name": "iralance/iralance-hash",
+    "description": "md5 hash",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "iralance",
+            "email": "iralance@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "IralanceHash\\": "src/"
+        }
+    }
+}
