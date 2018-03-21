@@ -8,6 +8,7 @@
             "email": "iralance@163.com"
         }
     ],
+    "type": "library",
     "minimum-stability": "stable",
     "require": {},
     "autoload": {
