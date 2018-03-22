@@ -1,7 +1,7 @@
 <?php
 namespace IralanceHash;
 
-class Md5Hasher {
+class IralanceHash {
     /**
      * @param $value
      * @param string $salt
