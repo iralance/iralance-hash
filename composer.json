@@ -11,6 +11,9 @@
     "type": "library",
     "minimum-stability": "stable",
     "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.2"
+    },
     "autoload": {
         "psr-4": {
             "IralanceHash\\": "src/"
